@@ -1,0 +1,4 @@
+# Day 1 - Hello World Program
+
+print("Hello, World!")
+print("Welcome to 30 Days of Python")
